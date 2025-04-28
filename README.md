@@ -69,3 +69,14 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 * Rate Limiting: Limit the amount of API calls
 
 
+## CI/CD Pipeline
+
+CI/CD means continuous Integrating and merging all changes made to the code. It also involves testing the codes integrated together to make sure they works without errors when integrated. CD involves automatically deploying the tested ingrated code and deploying it to productive without delay or it manually done.
+
+
+* GitHub Actionns
+
+* Docker
+
+* Jetkins
+
