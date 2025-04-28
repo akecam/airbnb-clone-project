@@ -1,13 +1,7 @@
 # Project Overview
 
 ## Airbnb Clone Project 
-The Airbnb Clone Project is a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It involves a deep dive into full-stack development, focusing on backend systems, database design, API development, and application security.
-
-
-## Tech Stack
-* Python (Django)
-* MySQL
-* GraphQL
+The Airbnb Clone Project is a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It involves a deep dive into full-stack development, focusing on backend systems, database design, API development, and application security using Python (Django), MySQL, GraphQL, JWT, etc.
 
 ## Team Roles
 * Backend Developer -  implement the core of an app—its algorithms and business logic.
@@ -19,3 +13,51 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 * Quality Assurance Engineer - verify whether an application meets the requirements—both functional and non-functional.
 
 * UI/UX Designer - devises intuitive, easy-to-use, and eye-pleasing interface for the product, while the UX for thinks out an entire journey of a user’s interaction with a product.
+
+
+## Technology Stack
+* Django: a web framework for building RESTFUL
+
+* openAPI: A standard formating and documentation of the RESTAPI for the project
+
+* PostgreSQL: the relational database being used
+
+* GraphQL: 
+
+* Kafta: Event service
+
+* Redis: Casching system
+
+
+## Database Design
+* User Authentication
+	* Endpoints: `/users/`, `/users/{user_id}/`
+	* Features: Register new users, authenticate, and manage user profiles.
+
+*	Property Management
+	* Endpoints: `/properties/`, `/properties/{property_id}/`
+	* Features: Create, update, retrieve, and delete property listings.
+
+*	Booking System
+	* Endpoints: `/bookings/`, `/bookings/{booking_id}/`
+	* Features: Make, update, and manage bookings, including check-in and check-out details.
+
+*	Payment Processing
+	* Endpoints: `/payments/`
+	* Features: Handle payment transactions related to bookings.
+
+*	Review System
+	* Endpoints: `/reviews/`, `/reviews/{review_id}/`
+	* Features: Post and manage reviews for properties.
+
+
+
+## Feature Breakdown
+
+* User Management: Provides interfaces for the user to be able to manage their data
+
+* Property Management: Provides interfaces for project managers or owners to manage their property
+
+* Booking System: Provides interfaces for users to book property and property owner/managers to manage bookings
+
+
