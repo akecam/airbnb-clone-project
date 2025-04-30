@@ -80,3 +80,15 @@ CI/CD means continuous Integrating and merging all changes made to the code. It 
 
 * Jetkins
 
+
+## UI/UX Design Planning
+
+The aim isss to create a clean, modern and intuitive interface that allows users to effortlessly browse, view and book properties. The design must prioritize ease of use, responsive layouts for all devices, fast interaction, and visual clarity to ensure a pleasant user journey from search to checkout.
+
+
+## Primary pages:
+
+| Property Listing View | 
+| Listing Detailed View |
+| Simple Checkout View  |
+
