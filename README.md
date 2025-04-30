@@ -109,3 +109,20 @@ The aim isss to create a clean, modern and intuitive interface that allows users
 ## Importance of User-Friendly Design
 
 A well-dessigned booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clearn navigation, intuitive interfaces, and ressponsive design are critical for successss.
+
+
+## Color Styles
+
+* Primary: #FF5A5F
+* Secondary: #008489
+* Background: #FFFFFF
+* Text: #222222
+* Secondary Text: #717171
+
+## Typography:
+
+* Primary Font: Circular, Medium (500), 16px
+* Headings: Circular, Bold (700), 24px-32px
+* Secondary Text: Circular, Book (400), 14px
+
+
