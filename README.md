@@ -90,7 +90,7 @@ The aim isss to create a clean, modern and intuitive interface that allows users
 
 | Pages	| Description|
 |-------|------------|
-| Property Listing View | 
-| Listing Detailed View |
-| Simple Checkout View  |
+| Property Listing View | Grid display of available propertiess with filters |
+| Listing Detailed View | Complete property details with imagess and booking form |
+| Simple Checkout View  | Streamlined payment and booking confirmation |
 
