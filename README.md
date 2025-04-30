@@ -88,6 +88,8 @@ The aim isss to create a clean, modern and intuitive interface that allows users
 
 ## Primary pages:
 
+| Pages	| Description|
+|-------|------------|
 | Property Listing View | 
 | Listing Detailed View |
 | Simple Checkout View  |
