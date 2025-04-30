@@ -85,6 +85,17 @@ CI/CD means continuous Integrating and merging all changes made to the code. It 
 
 The aim isss to create a clean, modern and intuitive interface that allows users to effortlessly browse, view and book properties. The design must prioritize ease of use, responsive layouts for all devices, fast interaction, and visual clarity to ensure a pleasant user journey from search to checkout.
 
+## Design Goals
+* Create intuitive booking flow
+* Maintain visual consistency
+* Ensure fast loading times
+* Prioritize mobile responsiveness
+
+## Key Featuress
+* Property search and filtering
+* Detailed property viewing
+* Secure checkout process
+* User authentication
 
 ## Primary pages:
 
@@ -94,3 +105,7 @@ The aim isss to create a clean, modern and intuitive interface that allows users
 | Listing Detailed View | Complete property details with imagess and booking form |
 | Simple Checkout View  | Streamlined payment and booking confirmation |
 
+
+## Importance of User-Friendly Design
+
+A well-dessigned booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clearn navigation, intuitive interfaces, and ressponsive design are critical for successss.
